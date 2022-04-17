@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Circle/Nara
+- 👋 Hi, I’m Circle/Nara.
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning python and javascript
+- 🌱 I’m currently learning python and javascript.
 - 📫 How to reach me: Circle#6635
 
 <!---
