@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Circle/Nara.
-- 👀 I’m currently working on an upcoming community.
+- 👀 I’m currently working for an upcoming community.
 - 🌱 I’m currently learning python and javascript.
 - 📫 How to reach me: Circle#6635
 
