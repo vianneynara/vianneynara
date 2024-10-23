@@ -2,7 +2,7 @@
 
 <div align="center">
   
-I'm Nara. An Indonesian university student. I love to learn new things.<br>
+I'm Nara, an Indonesian university student. I love to learn new things.<br>
 Not only codes, I have some interest in networks and system rchitectures.<br>
 It is sad that I'm currently very occupied at the moment with college projects.<br><br>
 Currently working on an E-commerce website project with Java Spring Boot<br>
