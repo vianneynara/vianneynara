@@ -3,7 +3,7 @@
 <div align="center">
   
 I'm Nara, an Indonesian university student. I love to learn new things.<br>
-Not only codes, I have some interest in networks and system rchitectures.<br>
+Not only codes, I have some interest in networks and system architectures.<br>
 It is sad that I'm currently very occupied at the moment with college projects.<br><br>
 Currently working on an E-commerce website project with Java Spring Boot<br>
 and a Payment Gateway using Go(Gin?) with React. (as a way of learning)<br><br>
