@@ -7,7 +7,7 @@ Not only codes, I have some interest in networks and system architectures.<br>
 It is sad that I'm currently very occupied at the moment with college projects.<br><br>
 Currently working on an E-commerce website project with Java Spring Boot<br>
 and a Payment Gateway using Go(Gin?) with React. (as a way of learning)<br><br>
-However, you reach me at:<br>
+However, you can reach me via:<br>
 <a href="mailto:vianneynara.github@outlook.com"><b>vianneynara.github@outlook.com</b></a>
 
 </div>
