@@ -3,10 +3,9 @@
 <div align="center">
   
 I'm Nara, an Indonesian university student. I love to learn new things.<br>
-Not only codes, I have some interest in networks and system architectures.<br>
-It is sad that I'm currently very occupied at the moment with college projects.<br><br>
-Currently working on an E-commerce website project with Java Spring Boot.<br><br>
-However, you can reach out to me via:<br>
+Not only codes, I'm interested in networks and system architectures.<br>
+<br>
+You can reach out to me via:<br>
 <a href="mailto:vianneynara.github@outlook.com"><b>vianneynara.github@outlook.com</b></a>
 
 </div>
