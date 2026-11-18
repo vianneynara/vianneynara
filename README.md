@@ -10,7 +10,9 @@ I operate a personal home-server to run my applications and Minecraft server. <b
 
 Currently going through courses and personal projects in GH. <br>
 
-Bio is yet to be updated. <br>
+GitHub empty? <br>
+Well, most of my commits are in work repository anyways. <br>
+Hope I can commit projects soon <br>
 
 </div>
 
